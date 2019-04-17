@@ -1,0 +1,14 @@
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.1\ConverterAPI.deps.json
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.1\ConverterAPI.runtimeconfig.json
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.1\ConverterAPI.runtimeconfig.dev.json
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.1\ConverterAPI.dll
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.csprojAssemblyReference.cache
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.RazorAssemblyInfo.cache
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.RazorAssemblyInfo.cs
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.AssemblyInfoInputs.cache
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.AssemblyInfo.cs
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.1\ConverterAPI.pdb
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.dll
+C:\Users\tansa\source\repos\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.1\ConverterAPI.pdb
